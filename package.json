@@ -1,0 +1,75 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "reflexcontext",
+        "scope": null,
+        "escapedName": "reflexcontext",
+        "name": "reflexcontext",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/takezaki/git/vtecxblank"
+    ]
+  ],
+  "_from": "reflexcontext@latest",
+  "_id": "reflexcontext@0.0.1",
+  "_inCache": true,
+  "_location": "/reflexcontext",
+  "_nodeVersion": "4.4.4",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/reflexcontext-0.0.1.tgz_1486096845687_0.3319788265507668"
+  },
+  "_npmUser": {
+    "name": "takezaki",
+    "email": "takezaki@virtual-tech.net"
+  },
+  "_npmVersion": "2.15.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "reflexcontext",
+    "scope": null,
+    "escapedName": "reflexcontext",
+    "name": "reflexcontext",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/reflexcontext/-/reflexcontext-0.0.1.tgz",
+  "_shasum": "ca8c16548792aac908a810847329bfc6a619cdaa",
+  "_shrinkwrap": null,
+  "_spec": "reflexcontext",
+  "_where": "/Users/takezaki/git/vtecxblank",
+  "author": {
+    "name": "S.Takezaki"
+  },
+  "dependencies": {},
+  "description": "The reflexworks/vtecx API library",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "ca8c16548792aac908a810847329bfc6a619cdaa",
+    "tarball": "https://registry.npmjs.org/reflexcontext/-/reflexcontext-0.0.1.tgz"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "takezaki",
+      "email": "takezaki@virtual-tech.net"
+    }
+  ],
+  "name": "reflexcontext",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1"
+}
