@@ -1,4 +1,4 @@
 # reflexcontext
-The reflexworks/vte.cx API for JavaScript
+vte.cx Javascript API 
 
 see JSdoc (http://reflexworks.jp/documentation.html#reflexContext.html)
