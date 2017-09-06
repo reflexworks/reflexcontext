@@ -14,7 +14,7 @@
     ]
   ],
   "_from": "reflexcontext@latest",
-  "_id": "reflexcontext@0.0.1",
+  "_id": "reflexcontext@0.9.10",
   "_inCache": true,
   "_location": "/reflexcontext",
   "_nodeVersion": "4.4.4",
@@ -71,5 +71,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.0.1"
+  "version": "0.9.11"
 }
